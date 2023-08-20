@@ -9,11 +9,15 @@ In this project was used Python Pandas, Numpy and re (Regex) for analysing data.
 - Scrapping information from Job description column
 
 
-Some of the questions to asnwer:
+Some of the questions to answers:
 - Which industries have the highest number of job postings?
 - What is the distribution of job postings by location?
   
 ![Map](/image/map_plot.png "Job Posting per State")
+
+The most jobs posting are in California with 165 positions, followed by Virginia and Massachusetts.
+The least jobs posting are in Louisiana, Mississippi and Kansas.
+
 
 - What is the average salary for different job titles?
 - Which skills are most commonly required in job postings?
