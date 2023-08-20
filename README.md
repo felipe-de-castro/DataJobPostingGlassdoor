@@ -13,7 +13,7 @@ Some of the questions to asnwer:
 - Which industries have the highest number of job postings?
 - What is the distribution of job postings by location?
   
-![Map](/map_plot.png "Job Posting per State")
+![Map](/image/map_plot.png "Job Posting per State")
 
 - What is the average salary for different job titles?
 - Which skills are most commonly required in job postings?
