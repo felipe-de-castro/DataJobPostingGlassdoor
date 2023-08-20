@@ -8,3 +8,13 @@ In this project was used Python Pandas, Numpy and re (Regex) for analysing data.
 - Data collection and cleaning
 - Scrapping information from Job description column
 
+
+Some of the questions to asnwer:
+- Which industries have the highest number of job postings?
+- What is the distribution of job postings by location?
+  
+![Map](/path/to/map_plot.png "Job Posting per State")
+
+- What is the average salary for different job titles?
+- Which skills are most commonly required in job postings?
+- What is the relationship between years of experience and salary?
