@@ -18,7 +18,10 @@ Some of the questions to answers:
 The most jobs posting are in California with 165 positions, followed by Virginia and Massachusetts.
 The least jobs posting are in Louisiana, Mississippi and Kansas.
 
+- Which skills are most commonly required in job postings?
+
+Using the provided graph, it becomes evident that Python is the most commonly requested skill in jobs, followed by SQL and R. </br>
+We can also observe that Excel holds a prominent position, despite its constraint in handling large volumes of data.
 
 - What is the average salary for different job titles?
-- Which skills are most commonly required in job postings?
 - What is the relationship between years of experience and salary?
