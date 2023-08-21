@@ -23,5 +23,8 @@ The least jobs posting are in Louisiana, Mississippi and Kansas.
 Using the provided graph, it becomes evident that Python is the most commonly requested skill in jobs, followed by SQL and R. </br>
 We can also observe that Excel holds a prominent position, despite its constraint in handling large volumes of data.
 
+![Map](image/bar_job_position.png "Most Common Skills")
+
+
 - What is the average salary for different job titles?
 - What is the relationship between years of experience and salary?
