@@ -10,7 +10,6 @@ In this project was used Python Pandas, Numpy and re (Regex) for analysing data.
 
 
 Some of the questions to answers:
-- Which industries have the highest number of job postings?
 - What is the distribution of job postings by location?
   
 ![Map](/image/map_plot.png "Job Posting per State")
@@ -24,6 +23,12 @@ Using the provided graph, it becomes evident that Python is the most commonly re
 We can also observe that Excel holds a prominent position, despite its constraint in handling large volumes of data.
 
 ![Map](image/bar_job_position.png "Most Common Skills")
+
+- Which industries have the highest number of job postings?
+Listed the top 20 industries with the highest numbe of job postings in Glassdoor for Data Science.
+The highest is Biotech & Pharmaceitical industries.
+
+![Map](image/industries.png "Industries")
 
 
 - What is the average salary for different job titles?
